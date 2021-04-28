@@ -74,7 +74,7 @@ async def on_message(message):
     valid_users = ["TUDU#4367", "TuDu#5206", "0xKage#5206"]
 
     if (message.author.id != client.user.id):
-        API_KEY = 'AIzaSyCq17LT42MhHnGO0MIwSymviKVz3m9vFMI'
+        API_KEY = //key
         clientGoogle = discovery.build(
             "commentanalyzer",
             "v1alpha1",
