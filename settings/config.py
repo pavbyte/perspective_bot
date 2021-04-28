@@ -1,5 +1,5 @@
-TOKEN = 'Nzg0MTM3NDI0OTUxNDQzNDY4.X8k64g.SX0gyCcPux68qTmeSvTsHuJxd5c'
-KEY = '59e8b8085b50ac088b96686acf2689c54a4c604876531ac3d39b9b3fd11cb09a'
+TOKEN = //token for discord
+KEY = //key for google perspective
 
 BOTID = 'TUDU#4367'
 OWNERID = 'TuDu#5206'
